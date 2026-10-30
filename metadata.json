@@ -1,0 +1,8 @@
+{
+  "name": "PREYOSHI SHOP – প্রেয়সী শপ",
+  "description": "Premium Bangladesh e-commerce storefront for women's fashion, sarees, jewellery, cosmetics, and lifestyle goods.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
